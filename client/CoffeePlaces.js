@@ -69,7 +69,7 @@ export default class CoffeePlaces extends Component {
 
   render() {
     return (
-      <View style={styles.container}>
+      <ScrollView style={styles.container}>
         <TableView style={styles.container}>
           <Section style={{width: '100%'}}>
             {this.state.DATA.map((place, i) => (
@@ -79,14 +79,14 @@ export default class CoffeePlaces extends Component {
             ))}
           </Section>
         </TableView>
-      </View>
+      </ScrollView>
     );
   }
 }
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: 'red',
+    backgroundColor: 'white',
     width: '100%',
     height: '100%'
   },
