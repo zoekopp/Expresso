@@ -1,0 +1,202 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.015588,
+               "lng" : -105.263474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0169308802915,
+                  "lng" : -105.2619667697085
+               },
+               "southwest" : {
+                  "lat" : 40.0142329197085,
+                  "lng" : -105.2646647302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "913f33ea7a6a75a73a2220a4dcda8f7990c1d026",
+         "name" : "Village Coffee Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106986954326550417461/photos\"\u003eSeth Sharpless\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8yR780eIlW40F8kizupKQuMMvnG4Cj_O9cW1JySzJHSBJSHyxNPVf_axDkjtztR82JVB7UkJ8MpKh3MLSfnAuKyffJ0FrQK2T6d_zpeKuhOXnB4ffbi16SiEhPrPKtJ3EhAUVtB-snaBl38JdlrwGZwUGhSbkn-f0nexpw127tEFG6XLFPWeEg",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJa1a51NPta4cRhg25CfEPP1k",
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAO-AgXJZCz0y9z08_herzBMfzPIOLTyfQ9EBEty_H7QwNSQb6HpBe4kmhwDHPcRUKQAA6yqbWAklhSsgn7ZqHZLi5XFb2250YO5_T6XpXUYNn9PdTVvBLSVR_iw3N6aGFEhCSJrNYCiDo_XTEhsAA4_24GhRVRBLTlbtUWbzWOMSuma4bcZlflQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1605 Folsom Street, Boulder"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0165447,
+               "lng" : -105.281686
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0178481302915,
+                  "lng" : -105.2803221697085
+               },
+               "southwest" : {
+                  "lat" : 40.0151501697085,
+                  "lng" : -105.2830201302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "deb4670b3ecdf10f9ae526171a6313aac57a64e2",
+         "name" : "Gather Cafe (Galvanize - Boulder)",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 362,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100140892389119428169/photos\"\u003eGather - Boulder\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAKV2WWUa_WzrnsKgNQmjCEVHp7pWtdba4IoAwfIqYD9COLiKfi8DJwo9Y5YLQr0SM2mNlcO-X2pE9KFZaHOcM5jdpYrq63Q5mv2hdvZyR8EdeiQexK_QvClSHcgtnpQAEhB_q-iEbEOJh_Lg1KBoEovgGhQF1rJZwh4utX_csgCrY5wn5iknZQ",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJYbTdkSbsa4cR5NpXF7wV1F8",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAQIp2USu1EpgCQRL8WmwKjNr8F543Lk4KLuV120cHBnRpXXomxx-62q64AYsRmINP_MZXCnbbMWZ6gpaACiADbjsNFLUQpgA5aSi120bsU1HRBl_-CjxbSYEwnWfIt1wkEhBBNzE5u1ZWmU3_3fDeOFUxGhQIdcDlD6NW5FewnrQFwXFVR-1mcQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1023 Walnut Street #1, Boulder"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.00878899999999,
+               "lng" : -105.2765033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.01008728029149,
+                  "lng" : -105.2751547197085
+               },
+               "southwest" : {
+                  "lat" : 40.00738931970849,
+                  "lng" : -105.2778526802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "92e2efa8bc8ae3153153bd7ef27d3243127a2ac2",
+         "name" : "Cafe Aion",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2783,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107289137090247999761/photos\"\u003eCafe Aion\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmgiEFxNnOKNFWlmOU5EVrM2bbsz03IDndMqMtD9u2Iiepf2vWr8jWlksUgvL0ZAyuKJYN6c_gflPvH32K1fOcNopGKIVR3iBjZFpa42rxB8Vnyux9UhrMp3eI4wk4B05EhA8LYp_xgJdqbTGWE-IuNJBGhQ9kjofgVsiwnxFZW6KSEA6t7uitA",
+               "width" : 4182
+            }
+         ],
+         "place_id" : "ChIJX4E59TDsa4cRrO_-dvMuz1Y",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "CmRRAAAAGOHn-EJV9W20h7bKMbLZH8lT2ltMyb7uZe9c5scgFZBv3L4sAPw1hrt8dBrtOKue0NXv9mtKO6n488hDvyS-BF0oeam-ru1pfXK8-2PmzuuDtIDXnNBz3pMJn-O-H-oIEhCypQ4dSYcU_0_N9oLE7Te0GhQpmTbQzjNNbXcKnKNKRHeeEWY5XQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1235 Pennsylvania Avenue, Boulder"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0169677,
+               "lng" : -105.2588796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.01834663029149,
+                  "lng" : -105.2573262197085
+               },
+               "southwest" : {
+                  "lat" : 40.01564866970849,
+                  "lng" : -105.2600241802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "816548479c5460e2664c2224b0c07a51fa6f09b7",
+         "name" : "Caribou Coffee & Einstein Bros. Bagels",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102024606524618856398/photos\"\u003ePeter Shapiro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfuvAzUZztVmiSf1k8XoNP1pEEpPOaEzTNylW-VGmL-cC59ZUVcj0ARz5xEe8s4Ed7EO_1yiimVM5bQRsWN8jYExTAeCyQ36zkv8VmLwwPL8ZBYr8nX4dv0noWJp5Jt2tEhDpcR50LgY640EU6-T7eeE1GhRweSarCvh1hLEG6MMe_3whdHWdaQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJFQo9DtHta4cRNljYk6AW0Rg",
+         "rating" : 4,
+         "reference" : "CmRRAAAAXTLAAivwzsIDGnkeZqFVL5C9PGZi2kWFXoUex0pDWQj2Q0V6I83RL1_5h05m4JvlFIZcecR4q4YhVLZ7-BT7kRu6NsQS69g4q9AQdvVuNrDM13UR8I_DeHFemDFu1DoJEhDIhgHsBVZsk29B4gbXDF_FGhTR4vQNjMXZKU5cFXWmeUgWekrVrA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1693 28th Street, Boulder"
+      }
+   ],
+   "status" : "OK"
+}
